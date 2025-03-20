@@ -9,4 +9,7 @@ Subsequently, we calculated the average price for each repair in each state and 
 Following that, we computed the price premium (%) paid for repairs in each city and state compared to the national average, 
 and ranked the data accordingly.
 
-Please note that the provided data is accurate as of November 2023.			
+Please note that the provided data is accurate as of November 2023.		
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://www.netcredit.com/blog/car-repair-costs-by-state/
