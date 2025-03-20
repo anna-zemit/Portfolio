@@ -20,3 +20,6 @@ for each gender in each state.
 and ranked the data accordingly.
 
 The data was collected in September 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://www.netcredit.com/blog/women-and-retirement/
