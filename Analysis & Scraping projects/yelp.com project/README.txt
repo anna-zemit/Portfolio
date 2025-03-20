@@ -12,3 +12,6 @@ selected category of boutique store in each city. Next, we isolated the highest 
 categories and ranked the data.
 
 The data was collected in July 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://www.ondeck.com/resources/favorite-small-businesses#:~:text=Indianapolis%20is%20the%20City%20with,with%20an%20average%20of%204.33.
