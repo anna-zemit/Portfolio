@@ -11,3 +11,6 @@ Finally, we ranked companies based on having the biggest difference (year-on-yea
 business outlook.
 
 Please note that the provided information is accurate as of March 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://switchonbusiness.com/employee-confidence-high-low/
