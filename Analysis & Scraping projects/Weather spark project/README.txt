@@ -6,3 +6,6 @@ Data were collected for 14,657 cities around the world and 5,175 US cities.
 Next, we calculated the percentage of the year that is "dry," converted percentages into "dry days," and ranked the data.
 
 Please note that the information provided is accurate as of February 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://vividmaps.com/world-map-of-dry-air-capitals/
