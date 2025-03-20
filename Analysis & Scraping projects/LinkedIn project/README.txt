@@ -12,3 +12,6 @@ For cities to appear in our final rankings, they needed to have included a minim
 which had been posted no longer than seven days before the data was retrieved.
 
 The data was collected in June 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://resume.io/blog/most-competitive-job-markets-in-the-world-2024
