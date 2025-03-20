@@ -16,3 +16,6 @@ Additionally, we rank all cities by the average square footage of a property tha
 average monthly salary.
 
 Please note that the information provided is accurate as of March 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://career.io/career-advice/what-can-you-rent-in-us-cities-with-the-median-graduate-salary
