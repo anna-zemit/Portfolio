@@ -13,3 +13,6 @@ Afterward, we calculated the weighted average score across all independent coffe
 Finally, we ranked the data.
 
 The data was collected in September 2024.
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://www.ondeck.com/resources/best-coffee-shops-in-america#:~:text=Knoxville%2C%20Tennessee%2C%20has%20America's%20highest,a%20customer%20rating%20of%204.93.
