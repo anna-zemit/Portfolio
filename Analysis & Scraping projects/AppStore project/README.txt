@@ -12,3 +12,5 @@ user reviews.
 
 Data for this research was collected and analysed in September 2023.
 
+The results of this research, along with visualizations, are presented on the following webpage:
+https://merchantmachine.co.uk/personal-finance-apps-data/
