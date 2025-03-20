@@ -9,3 +9,6 @@ Next, we retrieved the rating breakdown for the top 50 apps in every country fro
 we calculated the scores out of five and ranked the data accordingly.
 
 Please note that the information provided is accurate as of May 2024.	
+
+The results of this research, along with visualizations, are presented on the following webpage:
+https://mailsuite.com/blog/the-most-loved-email-messaging-and-social-media-apps-by-country/
